@@ -160,17 +160,23 @@
     <Compile Include="Views\Login\ViewRecuperarContrasena.Designer.cs">
       <DependentUpon>ViewRecuperarContrasena.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Primer_Uso\ViewCreateFirstUser.cs">
+    <Compile Include="Views\Primer_Uso\ViewProveedores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Primer_Uso\ViewCreateFirstUser.Designer.cs">
-      <DependentUpon>ViewCreateFirstUser.cs</DependentUpon>
+    <Compile Include="Views\Primer_Uso\ViewProveedores.Designer.cs">
+      <DependentUpon>ViewProveedores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Primer_Uso\ViewFirstUse.cs">
+    <Compile Include="Views\Primer_Uso\ViewPV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Primer_Uso\ViewFirstUse.Designer.cs">
-      <DependentUpon>ViewFirstUse.cs</DependentUpon>
+    <Compile Include="Views\Primer_Uso\ViewPV.Designer.cs">
+      <DependentUpon>ViewPV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Proveedores\ProveedoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Proveedores\ProveedoresForm.Designer.cs">
+      <DependentUpon>ProveedoresForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Reports\Books\DataSet_ReportBooks.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -257,11 +263,14 @@
     <EmbeddedResource Include="Views\Login\ViewRecuperarContrasena.resx">
       <DependentUpon>ViewRecuperarContrasena.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Primer_Uso\ViewCreateFirstUser.resx">
-      <DependentUpon>ViewCreateFirstUser.cs</DependentUpon>
+    <EmbeddedResource Include="Views\Primer_Uso\ViewProveedores.resx">
+      <DependentUpon>ViewProveedores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Primer_Uso\ViewFirstUse.resx">
-      <DependentUpon>ViewFirstUse.cs</DependentUpon>
+    <EmbeddedResource Include="Views\Primer_Uso\ViewPV.resx">
+      <DependentUpon>ViewPV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Proveedores\ProveedoresForm.resx">
+      <DependentUpon>ProveedoresForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Reports\Books\ReporteLibros.rdlc" />
     <EmbeddedResource Include="Views\Reports\Books\ViewGeneralBooks.resx">
@@ -421,6 +430,18 @@
     <None Include="Resources\icons8-save-25.png" />
     <None Include="Resources\icons8-update-25.png" />
     <None Include="Resources\icons8-trash-25.png" />
+    <None Include="Resources\proveedores.png" />
+    <None Include="Resources\Captura p.JPG" />
+    <None Include="Resources\Captura p1.JPG" />
+    <None Include="Resources\icons8-provider-50.png" />
+    <None Include="Resources\icons8-provider-50 %281%29.png" />
+    <None Include="Resources\icons8-provider-50 %282%29.png" />
+    <None Include="Resources\icons8-provider-24.png" />
+    <None Include="Resources\icons8-provider-501.png" />
+    <None Include="Resources\icons8-provider-50 %283%29.png" />
+    <None Include="Resources\icons8-provider-50 %283%291.png" />
+    <None Include="Resources\icons8-provider-50 %284%29.png" />
+    <None Include="Resources\icons8-supplier-50.png" />
     <Content Include="Resources\Refresh.ico" />
     <None Include="Resources\Refresh.png" />
     <None Include="Resources\Server.png" />

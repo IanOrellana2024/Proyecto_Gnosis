@@ -12,9 +12,9 @@ namespace gnosis.Controllers.FirstUse
 {
     internal class ControllerFirstUse
     {
-        ViewFirstUse ObjVista;
+        ViewPV ObjVista;
         bool realizarAccion;
-        public ControllerFirstUse(ViewFirstUse Vista) 
+        public ControllerFirstUse(ViewPV Vista) 
         {
             ObjVista = Vista;
             Vista.btnSave.Click += new EventHandler(GuardarInformacion);
@@ -70,7 +70,7 @@ namespace gnosis.Controllers.FirstUse
                         if (respuesta != false)
                         {
                             MessageBox.Show($"Tu biblioteca ha sido registrada exitosamente.", "Paso 1 completado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            ViewCreateFirstUser nextForm = new ViewCreateFirstUser();
+                            ViewProveedores nextForm = new ViewProveedores();
                             nextForm.Show();
                             ObjVista.Dispose();
                         }

@@ -7,6 +7,8 @@ using gnosis.Views.Server;
 using gnosis.Controllers.Helper;
 using gnosis.Views.Login;
 using gnosis.Views.Books;
+using gnosis.Views.Primer_Uso;
+using gnosis.Views.Proveedores;
 
 namespace gnosis.Controllers.Dashboard
 {
@@ -35,6 +37,7 @@ namespace gnosis.Controllers.Dashboard
             ObjDashboard.menuVerMenu.Click += new EventHandler(menu);
             ObjDashboard.btnServer.Click += new EventHandler(ConfServer);
             ObjDashboard.btnLogout.Click += new EventHandler(Logout);
+            ObjDashboard.btnProveedores.Click += new EventHandler(AbrirFormularioProveedoresForm);
         }
 
         /// <summary>
@@ -108,6 +111,11 @@ namespace gnosis.Controllers.Dashboard
         private void AbrirFormularioLibros(object sender, EventArgs e)
         {
             AbrirFormulario<ViewBooks>();
+        }
+
+        private void AbrirFormularioProveedoresForm(object sender, EventArgs e)
+        {
+            AbrirFormulario<ProveedoresForm>();
         }
 
         private void CargarFormPred(object sender, EventArgs e)
@@ -203,3 +211,5 @@ namespace gnosis.Controllers.Dashboard
         }
     }
 }
+
+

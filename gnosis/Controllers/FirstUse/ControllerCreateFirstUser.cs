@@ -14,9 +14,9 @@ namespace gnosis.Controllers.FirstUse
 {
     internal class ControllerCreateFirstUser
     {
-        ViewCreateFirstUser ObjVista;
+        ViewProveedores ObjVista;
 
-        public ControllerCreateFirstUser(ViewCreateFirstUser Vista) 
+        public ControllerCreateFirstUser(ViewProveedores Vista) 
         {
             ObjVista = Vista;
             Vista.Load += new EventHandler(CargarCombos);

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\gnosis",
+    "\\gnosis\\Views",
+    "\\gnosis\\Views\\Login",
+    "\\gnosis\\Views\\Proveedores"
   ],
-  "SelectedNode": "\\gnosis.sln",
+  "SelectedNode": "\\gnosis\\Views\\Login\\ViewCambiarClave.cs",
   "PreviewInSolutionExplorer": false
 }

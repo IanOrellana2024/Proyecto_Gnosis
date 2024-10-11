@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\",
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\controllers\\controllerinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\controllerinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\controllers\\server\\controlleradminconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\server\\controlleradminconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\docente\\documents\\github\\proyecto_gnosis\\gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\docente\\documents\\github\\proyecto_gnosis\\gnosis\\views\\books\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\books\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\models\\modelinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\modelinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,74 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:06:25.141Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:03:17.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ControllerDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "RelativeDocumentMoniker": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "ToolTip": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "RelativeToolTip": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAawGIAAABBAAAA",
+              "Title": "ModelInit.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Models\\ModelInit.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\ModelInit.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Models\\ModelInit.cs",
+              "RelativeToolTip": "gnosis\\Models\\ModelInit.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:05:49.484Z",
+              "WhenOpened": "2024-10-11T04:00:37.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ViewBooks.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Views\\Books\\ViewBooks.cs",
-              "RelativeDocumentMoniker": "gnosis\\Views\\Books\\ViewBooks.cs",
-              "ToolTip": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Views\\Books\\ViewBooks.cs [Dise\u00F1o]",
-              "RelativeToolTip": "gnosis\\Views\\Books\\ViewBooks.cs [Dise\u00F1o]",
+              "Title": "ProveedoresForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:30:07.961Z",
+              "WhenOpened": "2024-10-08T23:56:48.306Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ControllerInit.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\ControllerInit.cs",
-              "RelativeDocumentMoniker": "gnosis\\Controllers\\ControllerInit.cs",
-              "ToolTip": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\ControllerInit.cs",
-              "RelativeToolTip": "gnosis\\Controllers\\ControllerInit.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:40:18.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControllerAdminConnection.cs",
-              "DocumentMoniker": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\Server\\ControllerAdminConnection.cs",
-              "RelativeDocumentMoniker": "gnosis\\Controllers\\Server\\ControllerAdminConnection.cs",
-              "ToolTip": "C:\\Users\\Docente\\Documents\\GitHub\\Proyecto_Gnosis\\gnosis\\Controllers\\Server\\ControllerAdminConnection.cs",
-              "RelativeToolTip": "gnosis\\Controllers\\Server\\ControllerAdminConnection.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:40:13.887Z",
-              "EditorCaption": ""
             }
           ]
         }

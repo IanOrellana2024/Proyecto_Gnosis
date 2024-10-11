@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\administrador de usuarios\\viewadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\administrador de usuarios\\viewadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\views\\server\\viewadminconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\server\\viewadminconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\books\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\books\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\administrador de usuarios\\viewadministradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\administrador de usuarios\\viewadministradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis-main\\gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewAdminConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Server\\ViewAdminConnection.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Server\\ViewAdminConnection.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Server\\ViewAdminConnection.cs",
+              "RelativeToolTip": "gnosis\\Views\\Server\\ViewAdminConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:21:21.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "RelativeToolTip": "gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:01:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewAddUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Administrador de usuarios\\ViewAddUser.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Administrador de usuarios\\ViewAddUser.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Administrador de usuarios\\ViewAddUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Administrador de usuarios\\ViewAddUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:04:56.682Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBooks.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Books\\ViewBooks.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Books\\ViewBooks.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Books\\ViewBooks.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Books\\ViewBooks.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:04:34.135Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewAdministradorUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Administrador de usuarios\\ViewAdministradorUsuarios.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Administrador de usuarios\\ViewAdministradorUsuarios.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Administrador de usuarios\\ViewAdministradorUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Administrador de usuarios\\ViewAdministradorUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:04:17.292Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:49:36.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedoresForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:56:48.306Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControllerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADgvykAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:27:17.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewDashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Dashboard\\ViewDashboard.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:27:12.92Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Program.cs",
+              "RelativeDocumentMoniker": "gnosis\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis-main\\gnosis\\Program.cs",
+              "RelativeToolTip": "gnosis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:45:31.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,8 +18,7 @@ namespace gnosis.Controllers
         public static void DeterminarVistaInicial()
         {
             CommonClasses objCommon = new CommonClasses();
-            objCommon.LeerArchivoXMLConexion
-                ();
+            objCommon.LeerArchivoXMLConexion();
             //Creando objetos de la clase DAOLogin y DAOFirstUser
             DAOLogin Objlogin = new DAOLogin();
             DAOFirstUse Objfirst = new DAOFirstUse();
@@ -30,10 +29,10 @@ namespace gnosis.Controllers
             int primerUsuario = Objlogin.ValidarPrimerUsoSistema();
             if (primerEmpresa == 0)
             {
-                Application.Run(new ViewFirstUse());
+                Application.Run(new ViewPV());
             }else if (primerUsuario == 0)
             {
-                Application.Run(new ViewCreateFirstUser());
+                Application.Run(new ViewProveedores());
             }
             else
             {
