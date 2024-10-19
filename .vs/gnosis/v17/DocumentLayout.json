@@ -1,29 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\desktop\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\models\\dao\\daoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\proveedores\\controladoractualizarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\proveedores\\controladoractualizarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dao\\daoagregarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dao\\daoagregarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dao\\daoadminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dao\\daoadminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dao\\daoactualizarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dao\\daoactualizarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dao\\daoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dao\\daoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\proveedores\\controladorprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\login\\controllercambiarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\login\\controllercambiarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\proveedores\\controladoragregarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\proveedores\\controladoragregarprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\proveedores\\controladorprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\proveedores\\controladorprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dto\\dtoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dto\\dtoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dto\\dtoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,60 +70,60 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ActualizarProvForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
-              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T03:57:03.913Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AgregarProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "Title": "AgregarProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
               "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T03:56:17.875Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-19T04:51:51.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DAOProv.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
-              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOProv.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
-              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOProv.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGAAAABLAAAAAAAAAA==",
+              "Title": "ProveedoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T02:50:47.273Z",
+              "WhenOpened": "2024-10-19T04:51:04.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DTOProv.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
-              "RelativeDocumentMoniker": "gnosis\\Models\\DTO\\DTOProv.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
-              "RelativeToolTip": "gnosis\\Models\\DTO\\DTOProv.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "DocumentIndex": 4,
+              "Title": "ControladorActualizarProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorActualizarProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Proveedores\\ControladorActualizarProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorActualizarProv.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Proveedores\\ControladorActualizarProv.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T02:48:03.597Z"
+              "WhenOpened": "2024-10-19T04:37:36.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOAgregarProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOAgregarProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOAgregarProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOAgregarProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOAgregarProv.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:33:00.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProveedoresForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
               "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T02:47:06.258Z",
@@ -99,11 +131,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "DAOActualizarProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOActualizarProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOActualizarProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOActualizarProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOActualizarProv.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:28:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:56:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAOProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOProv.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:50:47.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControllerCambiarContrasena.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Login\\ControllerCambiarContrasena.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Login\\ControllerCambiarContrasena.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Login\\ControllerCambiarContrasena.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Login\\ControllerCambiarContrasena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:34:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAOAdminUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOAdminUsers.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOAdminUsers.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOAdminUsers.cs",
+              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOAdminUsers.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:28:42.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ControladorAgregarProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorAgregarProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Proveedores\\ControladorAgregarProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorAgregarProv.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Proveedores\\ControladorAgregarProv.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:33:23.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarProvForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:57:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTOProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DTO\\DTOProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DTO\\DTOProv.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:48:03.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ControladorProv.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
               "RelativeDocumentMoniker": "gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
               "RelativeToolTip": "gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAGQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
