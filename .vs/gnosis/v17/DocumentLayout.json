@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\dashboard\\viewdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\dashboard\\controllerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\models\\modelinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\modelinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\diego\\desktop\\proyecto_gnosis-main ian\\proyecto_gnosis-main ian\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\proveedoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\agregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\views\\proveedores\\actualizarprovform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|c:\\users\\administrador\\downloads\\proyecto_gnosis\\proyecto_gnosis\\gnosis\\models\\dao\\daoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dao\\daoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\controllers\\proveedores\\controladorprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\controllers\\proveedores\\controladorprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\models\\dto\\dtoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5D638-8370-43DD-8C1B-33F5F7F59CB7}|gnosis\\gnosis.csproj|solutionrelative:gnosis\\models\\dto\\dtoprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewDashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Dashboard\\ViewDashboard.cs",
-              "RelativeDocumentMoniker": "gnosis\\Views\\Dashboard\\ViewDashboard.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "gnosis\\Views\\Dashboard\\ViewDashboard.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "ActualizarProvForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ActualizarProvForm.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\ActualizarProvForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:06:25.141Z",
+              "WhenOpened": "2024-10-19T03:57:03.913Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ControllerDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "RelativeDocumentMoniker": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "RelativeToolTip": "gnosis\\Controllers\\Dashboard\\ControllerDashboard.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwCgAAABHAAAA",
+              "Title": "AgregarProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gnosis\\Views\\Proveedores\\AgregarProveedor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:03:17.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModelInit.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Models\\ModelInit.cs",
-              "RelativeDocumentMoniker": "gnosis\\Models\\ModelInit.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Models\\ModelInit.cs",
-              "RelativeToolTip": "gnosis\\Models\\ModelInit.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:00:37.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T03:56:17.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DAOProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DAO\\DAOProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DAO\\DAOProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DAO\\DAOProv.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:50:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTOProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Models\\DTO\\DTOProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Models\\DTO\\DTOProv.cs",
+              "RelativeToolTip": "gnosis\\Models\\DTO\\DTOProv.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:48:03.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProveedoresForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
               "RelativeDocumentMoniker": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Proyecto_Gnosis-main ian\\Proyecto_Gnosis-main ian\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "gnosis\\Views\\Proveedores\\ProveedoresForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:56:48.306Z",
+              "WhenOpened": "2024-10-19T02:47:06.258Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControladorProv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "RelativeDocumentMoniker": "gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto_Gnosis\\Proyecto_Gnosis\\gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "RelativeToolTip": "gnosis\\Controllers\\Proveedores\\ControladorProv.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:46:58.167Z"
             }
           ]
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using gnosis.Controllers.Proveedores;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,7 @@ namespace gnosis.Views.Proveedores
         public ProveedoresForm()
         {
             InitializeComponent();
+            ControladorProv control = new ControladorProv(this);
         }
     }
 }

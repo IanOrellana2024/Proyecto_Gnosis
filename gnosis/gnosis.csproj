@@ -91,18 +91,27 @@
     <Compile Include="Controllers\Login\ControllerCambiarContrasena.cs" />
     <Compile Include="Controllers\Login\ControllerLogin.cs" />
     <Compile Include="Controllers\Login\ControllerMetodosDeRecuperacion.cs" />
+    <Compile Include="Controllers\Proveedores\ControladorActualizarProv.cs" />
+    <Compile Include="Controllers\Proveedores\ControladorAgregarProv.cs" />
+    <Compile Include="Controllers\Proveedores\ControladorProv.cs" />
     <Compile Include="Controllers\Server\ControllerAdminConnection.cs" />
     <Compile Include="Controllers\Server\ControllerConfirmPassword.cs" />
+    <Compile Include="Models\DAO\DAOActualizarProv.cs" />
     <Compile Include="Models\DAO\DAOAdminUsers.cs" />
+    <Compile Include="Models\DAO\DAOAgregarProv.cs" />
     <Compile Include="Models\DAO\DAOBooks.cs" />
     <Compile Include="Models\DAO\DAOFirstUse.cs" />
     <Compile Include="Models\DAO\DAOLogin.cs" />
+    <Compile Include="Models\DAO\DAOProv.cs" />
     <Compile Include="Models\dbContext.cs" />
+    <Compile Include="Models\DTO\DTOActualizarProv.cs" />
     <Compile Include="Models\DTO\DTOAdminUsers.cs" />
+    <Compile Include="Models\DTO\DTOAgregarProv.cs" />
     <Compile Include="Models\DTO\DTOBooks.cs" />
     <Compile Include="Models\DTO\DTOdbContext.cs" />
     <Compile Include="Models\DTO\DTOFirstUse.cs" />
     <Compile Include="Models\DTO\DTOLogin.cs" />
+    <Compile Include="Models\DTO\DTOProv.cs" />
     <Compile Include="Models\ModelInit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -171,6 +180,18 @@
     </Compile>
     <Compile Include="Views\Primer_Uso\ViewPV.Designer.cs">
       <DependentUpon>ViewPV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Proveedores\ActualizarProvForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Proveedores\ActualizarProvForm.Designer.cs">
+      <DependentUpon>ActualizarProvForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Proveedores\AgregarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Proveedores\AgregarProveedor.Designer.cs">
+      <DependentUpon>AgregarProveedor.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Proveedores\ProveedoresForm.cs">
       <SubType>Form</SubType>
@@ -268,6 +289,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Primer_Uso\ViewPV.resx">
       <DependentUpon>ViewPV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Proveedores\ActualizarProvForm.resx">
+      <DependentUpon>ActualizarProvForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Proveedores\AgregarProveedor.resx">
+      <DependentUpon>AgregarProveedor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Proveedores\ProveedoresForm.resx">
       <DependentUpon>ProveedoresForm.cs</DependentUpon>
